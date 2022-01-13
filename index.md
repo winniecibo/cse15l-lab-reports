@@ -6,7 +6,7 @@
 * Ride with the homies when it's 3 PM
 ## Like what you doing 'round 4?
 > Would you go in other cities, goin' with me on a tour?
-Steppin' with me on the mat, goin' with me on the door
+Steppin' with me on the mat and goin' with me, open door
 ***
 
 1. Like, "Good afternoon", oh, good evening
