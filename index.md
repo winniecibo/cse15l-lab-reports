@@ -26,3 +26,7 @@ He don't love you, he don't love you anyway
 
 ## CHANGES!!!!
 changes
+
+[Lab Report 1](lab-report-1-week-2.html)
+
+[Lab Report 1](https://winniecibo.github.io/cse15l-lab-reports/lab-report-1-week-2.html)
