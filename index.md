@@ -14,7 +14,6 @@ Steppin' with me on the mat, goin' with me on the door
 3. I heard about the fights, about you leavin'
 
 ```
-# code block
 He don't love you anyway
 He don't love you, he don't love you anyway
 ```
