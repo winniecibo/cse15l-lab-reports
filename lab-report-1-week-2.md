@@ -88,4 +88,5 @@ Ways for you to simplify the process of using the terminal:
 ssh cs15lwi22@ieng6.ucsd.edu "ls"
 ```
 to list the home directory on the remote server
+
 3. You can use the up-down arrow eys to recall previous commands
