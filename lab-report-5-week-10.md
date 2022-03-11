@@ -1,8 +1,6 @@
 # Lab Report 4
 
-How you found the tests with different results (Did you use diff on the results of running a bash for loop? Did you search through manually? Did you use some other programmatic idea?)
-
-
+I found the tests with different results by looking through the test files and selecting the ones I found interesting. I then tested each file with the ttwo different implementations.
 
 ## Test 1 (14.md)
 My implementation could not give an output because of a memory error:
